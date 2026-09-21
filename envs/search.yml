@@ -1,0 +1,13 @@
+name: dmasif-search
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26
+  - scipy=1.11
+  - biopython=1.83
+  - faiss-cpu=1.8
+  - open3d=0.18
+  - pytest=8
+  - setuptools
+  - pip

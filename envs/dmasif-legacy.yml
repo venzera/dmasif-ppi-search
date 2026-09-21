@@ -1,0 +1,20 @@
+name: dmasif-legacy
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pytorch=1.6
+  - torchvision=0.7
+  - cudatoolkit=10.2
+  - numpy=1.19
+  - scipy=1.5
+  - biopython=1.78
+  - cmake=3.16
+  - gcc_linux-64=8.4
+  - gxx_linux-64=8.4
+  - setuptools
+  - pip
+  - pip:
+      - pykeops==1.4.1
