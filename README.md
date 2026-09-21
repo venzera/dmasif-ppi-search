@@ -11,7 +11,7 @@ A staged protein–protein interaction screening pipeline:
    Boltz, or another complex predictor.
 
 This repository performs **candidate retrieval and geometric filtering**. It does
-not claim that a shortlisted pair binds, and it does not include PyRosetta.
+not claim that a shortlisted pair binds.
 
 ## Why installation is split
 
