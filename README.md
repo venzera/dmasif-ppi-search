@@ -20,6 +20,7 @@ with Python 3.6/3.7, PyTorch 1.4/1.6, PyKeOps 1.4, PyTorch Geometric 1.5/1.6,
 CUDA 10.x, and GCC 7/8. FAISS and current Open3D are easier to install in a
 modern environment. Mixing both stacks in one environment is fragile.
 
+Pre-trained weights are available in https://github.com/casperg92/MaSIF_colab
 Use:
 
 - `dmasif-legacy` for embedding and optional site scoring;
